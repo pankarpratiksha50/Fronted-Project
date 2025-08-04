@@ -4,7 +4,7 @@ This project is a Nike Shoes landing page or e-commerce product page, built usin
 
  # 1. HTML (HyperText Markup Language)
  
-Structured the content of the webpage using semantic tags like "<header> , <section> , <article> , and <footer> ".
+Structured the content of the webpage using semantic tags like `<header> `, `<section> `, `<article>` , and `<footer>` .
 
 Included product titles, descriptions, pricing, navigation menus, and image elements for shoe previews.
 
